@@ -19,7 +19,7 @@ Here's a list of items with which you should be familiar:
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
-> > grep <text> <location> = search for text in location (global regular expression print)
+> > grep <text> <location> = search for text in location (global regular expression print)  
 > > sed 's/<find>/<replace>/g = (g)lobal find and replace. (stream editor)
 
 ---
@@ -43,7 +43,7 @@ What do the following commands do:
 
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
-> > ls -R = displaying subdirectories also
+> > ls -R = displaying subdirectories also  
 > > ls -1 = display each entry on a separate line
 
 ---
