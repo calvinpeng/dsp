@@ -52,7 +52,7 @@ Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) 
 
 What does `xargs` do? Give an example of how to use it.
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
-
+> > `xargs` allows you to specify a command that you would like to run, and then accept one or more standard input to be run against the command. Enter ctrl-D to tell `xargs` you are done providing standard inputs.
+Example: `xargs -L 1 find . -name` allows you to provide multiple standard inputs and xargs will use `find` to look for files that match your standard input.
  
 
