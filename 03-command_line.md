@@ -8,32 +8,32 @@ tutorial](https://web.archive.org/web/20160708171659/http://cli.learncodethehard
 ### Q1.  Cheat Sheet of Commands  
 
 Here's a list of items with which you should be familiar:  
-* pwd = show current working directory path
-* mkdir = creating a directory
-* rmdir = deleting a directory
-* touch = creating a file using `touch` command
-* rm = deleting a file
-* mv = renaming a file
-* ls -a = listing hidden files
-* cp <dir1> <dir2> = copying a file from one directory to another
+* pwd = show current working directory path  
+* mkdir = creating a directory  
+* rmdir = deleting a directory  
+* touch = creating a file using `touch` command  
+* rm = deleting a file  
+* mv = renaming a file  
+* ls -a = listing hidden files  
+* cp <dir1> <dir2> = copying a file from one directory to another  
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
 > > grep <text> <location> = search for text in location (global regular expression print)  
-> > sed 's/<find>/<replace>/g = (g)lobal find and replace. (stream editor)
+> > sed 's/_find_/_replace_/g' = (g)lobal find and replace. (stream editor)
 
 ---
 
 ### Q2.  List Files in Unix   
 
 What do the following commands do:  
-`ls` = list files and directories
-`ls -a`  = all files including hidden ones
-`ls -l`  = long format
-`ls -lh`  = long format + readile file size?
-`ls -lah`  = l + a + h
-`ls -t`  = sorted by time/date
-`ls -Glp`  = G=color, l=long, p=add "/" to directories
+`ls` = list files and directories  
+`ls -a`  = all files including hidden ones  
+`ls -l`  = long format  
+`ls -lh`  = long format + readile file size?  
+`ls -lah`  = l + a + h  
+`ls -t`  = sorted by time/date  
+`ls -Glp`  = G=color, l=long, p=add "/" to directories  
 
 > > REPLACE THIS TEXT WITH YOUR RESPONSE
 
