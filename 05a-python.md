@@ -20,7 +20,10 @@ How are Python lists and tuples similar and different? Which will work as keys i
 
 How are Python lists and sets similar and different? Give examples of using both. How does performance compare between lists and sets for finding an element. Why?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> A set is an unordered collection of items. Every element is unique and must be immutable. However the set itself is immutable.
+>> my_list = [1,2,3, "hello"]
+>> my_set = {1,2,3, "hello"}
+>> Finding an element is faster in a list, because the items are indexed.
 
 ---
 
@@ -28,7 +31,8 @@ How are Python lists and sets similar and different? Give examples of using both
 
 Describe Python's `lambda`. What is it, and what is it used for? Give at least one example, including an example of using a `lambda` in the `key` argument to `sorted`.
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> `lambda` creates anonymous one-time-use functions. You can use it to create a function on the fly without formally defining a new one.
+
 
 ---
 
